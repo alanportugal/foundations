@@ -1,0 +1,33 @@
+/* This is a CSS comment */ 
+    h1:hover {
+      color: red;
+    }
+
+    h2:hover {
+      color: orange;
+      font-size: 2em;
+    }
+
+    li{
+      font-style: italic;
+    }
+
+
+    a {
+      text-decoration:none;
+    }
+    
+    header{
+      width:75%;
+      margin:auto;
+    }
+    
+    article{
+      width:75%;
+      margin:auto;
+    }
+    
+    footer{
+      border:1px solid red;
+      border-radius:20px;
+    }
