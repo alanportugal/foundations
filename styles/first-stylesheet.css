@@ -20,6 +20,11 @@
       color:brown;
     }
 
+    #special-focus{
+      font-style:oblique;
+      color:darkgreen;
+    }
+
     a {
       text-decoration:none;
     }
@@ -32,6 +37,12 @@
     article{
       width:75%;
       margin:auto;
+      border:1px solid black;
+    }
+
+    aside{
+      font-family: monospace;
+      font-weight: 1400;
     }
     
     footer{
