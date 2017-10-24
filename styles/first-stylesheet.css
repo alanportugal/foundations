@@ -1,6 +1,7 @@
 /* This is a CSS comment */ 
     h1:hover {
       color: red;
+      font-family:cursive;
     }
 
     h2:hover {
@@ -12,6 +13,12 @@
       font-style: italic;
     }
 
+    .ancient{
+      font-style:italic;
+      font-weight: 700;
+      font-size: 1.5em;
+      color:brown;
+    }
 
     a {
       text-decoration:none;
